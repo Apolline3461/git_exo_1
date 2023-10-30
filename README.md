@@ -27,3 +27,4 @@ après chaque commande git.
 Auteurs :
  - Fabien Rozar
  - Clément Lagier
+ - Apolline Fontaine
